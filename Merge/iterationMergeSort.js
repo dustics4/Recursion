@@ -4,4 +4,8 @@ const iterationMergeSort = (arr) => {
     let left;
 
     let i,j,k = 0;
+
+
 }
+
+console.log(iterationMergeSort(8));
